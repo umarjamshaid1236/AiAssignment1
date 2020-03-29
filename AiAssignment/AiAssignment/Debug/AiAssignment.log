@@ -1,0 +1,2 @@
+﻿  Driver.cpp
+C:\Users\UMAR-PC\source\repos\AiAssignment\AiAssignment\Driver.cpp(181,2): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
